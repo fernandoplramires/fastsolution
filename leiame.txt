@@ -1,0 +1,39 @@
+Para participar do processo seletivo da vaga de Analista de Sistemas Sênior, é necessário que você aceito o desafio abaixo, 
+o prazo para entrega é 13/10/2015.
+
+O arquivo em anexo representa a movimentação de vendas no primeiro trimestre em algumas filiais de uma empresa hipotética, 
+você deve desenvolver um aplicativo que leia o arquivo e imprima no console as seguintes informações:
+ 
+- Filial que mais vendeu no período;
+- Filial que teve o maior crescimento;
+- Filial que teve a maior queda nas vendas;
+- Mês em que a empresa mais vendeu.
+ 
+O arquivo é um txt separado por tabulação.
+ 
+Será avaliado:
+ 
+- Código limpo;
+- Orientação à objetos;
+- Capacidade de interpretar o problema;
+- Funcionamento da solução;
+- Documentação (caso tenha);
+- Prazo;
+ 
+Plus:
+ 
+Não é obrigatório, mas você terá pontos extras na avaliação caso seu projeto tenha:
+ 
+- Documentação;
+- Testes unitários;
+- Interface Web para upload do arquivo;
+- Commit no GitHub;
+- Desenvolvimento também em outra linguagem;
+ 
+Recomendações:
+ 
+- Faça seu projeto sozinho;
+- Use boas práticas de programação;
+- Se não concluir, envie o que tiver feito, será avaliado.
+ 
+Você deve enviar a resposta junto com instruções sobre como executar seu projeto
